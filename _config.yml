@@ -1,7 +1,8 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Steyn's
+title_pt2: Space
+tagline: a project and life blog or something
+url: https://www.steyn.dk
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +34,38 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Steyn de Klerk
+  url: https://www.steyn.dk
+  email: me@steyn.dk
 
 # Custom vars
 version: 3.0.0
+
+fun_titles:
+  - text: Place
+    url: /
+    css-action: nothin
+  - text: Spot
+    url: /
+    css-action: nothin
+  - text: Space
+    url: /
+    css-action: nothin
+  - text: Huis
+    url: https://translate.google.com/?sl=af&tl=en&text=huis&op=translate&hl=en
+    css-action: highlight-newtab
+  - text: Maze
+    url: /
+    css-action: nothin
+  - text: Face
+    url: /misc/stainw
+    css-action: highlight-sametab
+  # - text: Plane
+  #   url: /
+  #   css-action: nothin
+  # - text: Plain
+  #   url: /
+  #   css-action: nothin
+  # - text: Valheim
+  #   url: /add/link
+  #   css-action: nothin

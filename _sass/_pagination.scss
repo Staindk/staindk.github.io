@@ -1,10 +1,11 @@
 // Pagination
 //
-// Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+// Super lightweight (HTML-wise) blog pagination. `span`s are provided for when
 // there are no more previous or next posts to show.
 
 .pagination {
-  display: flex;
+  // display: flex; // fix for pagination displaying weirdly on mobile?
+  overflow: hidden;
   margin: 0 -1.5rem var(--spacer);
   color: var(--gray-500);
   text-align: center;
