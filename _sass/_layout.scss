@@ -10,7 +10,34 @@
   margin-right: auto;
 }
 
-footer {
+.footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3);
+
+  &--left {
+    float: left;
+  }
+  &--right {
+    float: right;
+  }
+}
+
+.greymoji {
+  -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
+}
+
+.center-img * {
+  margin: 0 auto;
+}
+
+#cover {
+  transition: opacity 0.25s;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top:0;
+  left: 0;
+  background: var(--gray-900);
+  z-index:9999;
 }

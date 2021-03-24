@@ -3,27 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Me
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hiya, I'm Steyn de Klerk. Yes my surname is why I bought a Danish domain - I just felt it was perfect.
 
-There are currently two themes built on Poole:
+I've got some plans for this site - hopefully I can showcase some personal projects and rant about what annoys me in games.
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+You can email [me@steyn.dk](mailto:me@steyn.dk) or visit my (currently pretty sparse & private) [GitHub](https://github.com/Staindk).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## About Site
 
-## Setup
+My site's styling is an alteration of the stock [Poole](https://getpoole.com/) butler/template for [Jekyll](https://jekyllrb.com).
 
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This site is hosted on [GitHub Pages](https://pages.github.com) for free. The repo is available [here](https://github.com/Staindk/staindk.github.io).

@@ -19,5 +19,13 @@
   small {
     font-weight: 400;
     opacity: .5;
+    font-size: 0.8em
+  }
+}
+
+#u-hover {
+  &:hover,
+  &:focus {
+    text-decoration: underline;
   }
 }
