@@ -1,5 +1,6 @@
 # Setup
-title: Steyn's
+title: Steyn de Klerk's Space
+title_pt1: Steyn's
 title_pt2: Space
 tagline: a project and life blog or something
 url: https://www.steyn.dk
@@ -31,6 +32,14 @@ sass:
 
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
+
+# SEO and such
+
+social:
+  name: Steyn de Klerk
+  links:
+    - https://www.linkedin.com/in/steyndk
+    - https://github.com/Staindk
 
 # Specify the author for blog posts
 author:
