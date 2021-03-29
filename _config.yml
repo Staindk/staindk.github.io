@@ -13,6 +13,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Optimize Jekyll
 exclude:
@@ -46,6 +47,15 @@ author:
   name: Steyn de Klerk
   url: https://www.steyn.dk
   email: me@steyn.dk
+
+# Sitemap excludes etc
+
+defaults:
+  -
+    scope:
+      path: "misc/*"
+    values:
+      sitemap: false
 
 # Custom vars
 version: 3.0.0

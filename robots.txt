@@ -1,3 +1,8 @@
+# Allow all crawler agents to crawl full site
+# except for the /assets and /misc folders.
+# See spec here https://developers.google.com/search/docs/advanced/robots/robots_txt
 User-agent: *
 Disallow: /assets/
 Disallow: /misc/
+Sitemap: https://www.steyn.dk/sitemap.xml
+Sitemap: http://www.steyn.dk/sitemap.xml
