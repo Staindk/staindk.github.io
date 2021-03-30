@@ -1,4 +1,5 @@
 :root {
+  // colours from Open Color project https://yeun.github.io/open-color/
   --gray-000: #f8f9fa;
   --gray-100: #f1f3f5;
   --gray-200: #e9ecef;
@@ -26,11 +27,15 @@
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
 
+  // custom colours
+  --dblue-500: #1d252d;
+
+  // other stuff
   --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --body-font-size: 16px;
   --body-line-height: 1.5;
   --body-color: var(--gray-300);
-  --body-bg:  var(--gray-900);
+  --body-bg:  var(--dblue-500);
 
   --link-color: var(--blue-300);
   --link-hover-color: var(--blue-400);
