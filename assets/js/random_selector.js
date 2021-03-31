@@ -1,4 +1,5 @@
 // take list input and return 1 random result
+// ref https://stackoverflow.com/a/61797638
 var myList = document.querySelector('#my-list');
 for (var i = myList.children.length; i > 1; i--) {
   myList.removeChild(myList.children[Math.random() * i | 0]);
