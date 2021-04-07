@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Init Hello
-description: Introductory website post 
+description: Introductory website post
+categories: general test1 test2
 ---
 
 Hi! 
