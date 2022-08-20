@@ -5,14 +5,19 @@ title: About
 
 ## Me
 
-Hiya, I'm Steyn de Klerk. Yes my surname is why I bought a Danish domain - I just felt it was perfect.
+Hiya, I'm Steyn de Klerk.
+I am a full-stack developer.
 
-I've got some plans for this site - hopefully I can showcase some personal projects and rant about what annoys me in games.
+Yes I got a Danish domain because of my surname.
+I have been going by `Steyndk` and `Staindk` online for most of my life, so it just felt perfect.
 
-You can email [me@steyn.dk](mailto:me@steyn.dk) or visit my (currently pretty sparse & private) [GitHub](https://github.com/Staindk).
+I have some plans for this site - hopefully I can showcase some personal projects and rant about what annoys me in games.
 
-## About Site
+You can email [me@steyn.dk](mailto:me@steyn.dk) or visit my [GitHub](https://github.com/Staindk).
 
-My site's styling is an alteration of the stock [Poole](https://getpoole.com/) butler/template for [Jekyll](https://jekyllrb.com).
+## Site
 
-This site is hosted on [GitHub Pages](https://pages.github.com) for free. The repo is available [here](https://github.com/Staindk/staindk.github.io).
+My site's styling is an alteration of the stock [Poole](https://getpoole.com/) "butler" for [Jekyll](https://jekyllrb.com).
+
+This site is hosted on [GitHub Pages](https://pages.github.com) for free. 
+The repo is available [here](https://github.com/Staindk/staindk.github.io).

@@ -9,7 +9,16 @@ pre {
 }
 
 code {
+  color: var(--code-color);
+  background-color: var(--code-bg);
   font-size: 85%;
+
+  &.highlighter-rouge {
+    padding: 0 2px;
+    border: 1px solid;
+    border-radius: var(--border-radius);
+    border-color: var(--border-color);
+  }
 }
 
 pre {
